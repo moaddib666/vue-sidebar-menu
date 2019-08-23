@@ -99,7 +99,13 @@ menu [
         */
        
         title: 'Dashboard',
-
+        
+        
+        
+        /* You can mark link as external
+        external: true,
+        */
+        
         // icon class
         icon: 'fa fa-user'
         /* or custom icon
@@ -144,7 +150,7 @@ menu [
         component: componentName
         // hidden: false
         // hiddenOnCollapse: true
-    }
+    },
 ]
 ```
 
